@@ -94,11 +94,18 @@ All new features include:
 ---
 
 
-## 🔮 Future Enhancements
+##📚 Literature Review Table
 
-- 📱 **Mobile App** version with voice control
-- 📊 **Analytics Dashboard** for learning progress
-- 🤖 **AI Personal Agent** for reminders and scheduling
-- 🎙️ **Voice-based form submission** for assignments
-- 🧪 **Adaptive Learning** based on user performance
+| No. | Study / Source | Key Findings | Application to Our System |
+|-----|----------------|--------------|----------------------------|
+| 1 | [WGBH & NSF](https://www.wired.com/2000/12/disabled-need-tools-for-schools) | Emphasized the need for text descriptions, captions, and keyboard navigation for accessible education. | Adopted WCAG standards and keyboard shortcuts to improve accessibility. |
+| 2 | [Schimmelpfeng & Ulbricht, 2021](https://www.intechopen.com/chapters/76384) | Early integration of accessibility using WAI-ARIA and gamification improves usability and inclusivity. | Implemented accessibility-first design and plans to add gamified features. |
+| 3 | [Wesley College, Ghana](https://www.researchgate.net/publication/368029581) | Challenges included lack of Braille support and low digital literacy among visually impaired students. | Introduced offline access, audio-first navigation, and planned Braille export tools. |
+| 4 | [Ugandan Universities Study](https://rsisinternational.org/journals/ijriss/articles/assessing-the-accessibility-and-inclusiveness-of-e-learning-systems-for-visually-impaired-students-in-selected-ugandan-universities-a-review) | Recommended structured HTML, screen reader support, and universal design learning (UDL). | Built with semantic HTML, screen-reader compatibility, and UDL principles. |
+| 5 | [Beni Suef University](https://www.mdpi.com/2075-4698/14/12/255) | Cloud-based LMS solutions improved learning engagement among blind students. | System uses Supabase cloud backend for secure, scalable LMS functionality. |
+| 6 | [Sultan Qaboos University](https://slejournal.springeropen.com/articles/10.1186/s40561-024-00358-x) | Peer collaboration and interactive platforms reduce accessibility barriers. | Planning peer-support community forums with voice and TTS support. |
+| 7 | [Audio-Tactile Graphics Study](https://pubmed.ncbi.nlm.nih.gov/36433350) | Audio-tactile feedback enhances memory and understanding of math content. | Math OCR and speech engine help explain equations to blind students. |
+| 8 | [Battle for Blindness](https://battleforblindness.org/accessible-learning-educational-tools-for-visually-impaired-students-learn-about-the-tool) | Mobile tools aid everyday tasks but lack structured academic support. | Designed for academic use with voice summaries, math support, and LMS integration. |
+| 9 | [NVDA Screen Reader](https://en.wikipedia.org/wiki/NonVisual_Desktop_Access) | Open-source screen reader widely used in visually impaired communities. | UI fully compatible with NVDA, tested for keyboard and screen-reader navigation. |
+| 10 | [Springer – UDL Framework](https://link.springer.com/chapter/10.1007/978-3-031-60049-4_12) | Universal Design for Learning enables equal access through multiple modes. | Follows UDL with multilingual support, TTS, visual/audio summaries, and adaptable UI. |
 
