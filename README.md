@@ -1,6 +1,8 @@
 # University Management System for Blind Students 👩‍🦯📚
 
+
 An accessible and inclusive web-based platform designed to empower blind and visually impaired students in higher education by providing intuitive academic and administrative tools enhanced with assistive technologies.
+
 ![Homepage Screenshot](https://github.com/marinaredamekhael/AI-Powered-University-Management-Platform-for-the-Visually-Impaired/blob/main/img/img1.png)
 ![Homepage Screenshot](https://github.com/marinaredamekhael/AI-Powered-University-Management-Platform-for-the-Visually-Impaired/blob/main/img/img2.png)
 ![Homepage Screenshot](https://github.com/marinaredamekhael/AI-Powered-University-Management-Platform-for-the-Visually-Impaired/blob/main/img/img3.png)
