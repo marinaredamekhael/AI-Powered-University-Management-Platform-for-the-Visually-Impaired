@@ -1,0 +1,2 @@
+# AI-Powered-University-Management-Platform-for-the-Visually-Impaired
+Field Training 2 Project| This project delivers an inclusive, AI-integrated university management platform tailored to meet the academic needs of blind students. It combines web accessibility, voice interaction, and advanced Python-based tools for summarizing and vocalizing lecture content, including complex mathematical expressions.
