@@ -10,7 +10,9 @@ An accessible and inclusive web-based platform designed to empower blind and vis
 
 ## 🔍 Abstract
 
-The **University Management System for Blind Students** is a specialized solution developed to enhance accessibility and autonomy for visually impaired learners in university settings. Built using **TypeScript (backend)**, **Supabase (database)**, and a screen reader-friendly **HTML/CSS/JavaScript (frontend)**, the system allows students to manage academic tasks independently through voice assistance and text-to-speech capabilities.
+The **University Management System for Blind Students** is an intelligent, fully accessible, and inclusive web-based platform tailored for visually impaired students in higher education. It empowers students to independently manage their academic lives—from course enrollment to accessing lecture content, tracking performance, and receiving real-time updates—through a highly usable and screen-reader-friendly interface.
+
+Built with modern technologies and assistive features, the platform combines a modular frontend (HTML, CSS, JavaScript with ARIA labels, keyboard support, high-contrast modes, and voice feedback) with a robust backend in TypeScript using Supabase for authentication, real-time updates, and data storage.
 
 It integrates AI-powered tools such as:
 - **BART-based PDF summarization**
