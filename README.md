@@ -26,15 +26,28 @@ Additionally, it introduces **new feature pages** that further enhance interacti
 ## 🚀 Key Features
 
 ### 🎓 Core Features
-- 🔐 **Login / Authentication**
-- 🏠 **Dashboard** – Summary of courses, grades, and updates
-- 📚 **Courses** – View and enroll in available subjects
-- 📝 **Lectures** – Access lecture materials in audio/text format
-- 📄 **PDF Summarization** – Auto-summarize lecture notes using `facebook/bart-large-cnn`
-- ➗ **Math Reader** – Convert math equations to speech using OCR + SymPy
-- 📈 **Grades** – Track academic performance
-- 📢 **Announcements** – Hear real-time university updates
-- 👤 **Profile Settings** – Manage user information and preferences
+
+The University Management System for Blind Students provides an inclusive and accessible learning experience through a rich set of features designed with assistive technologies:
+
+| Feature | Description |
+|--------|-------------|
+| 🔐 **Login / Authentication** | Secure login with role-based access for students, instructors, and admins. |
+| 🏠 **Dashboard** | Overview of courses, grades, and announcements in a screen-reader-friendly format. |
+| 📚 **Course Enrollment & Access** | Register for courses, access materials, and receive updates with text-to-speech integration. |
+| 📝 **Lectures** | View and listen to lecture notes with summarization and voice support. |
+| 📄 **PDF Summarization** | AI-generated summaries of long lecture PDFs using natural language processing. |
+| ➗ **Math Reader** | Extract and convert math equations into audio-friendly formats for comprehension. |
+| 📈 **Grades & Performance Tracking** | Real-time academic progress tracking with audio-based grade retrieval. |
+| 📢 **Real-Time Announcements** | Instant university-wide updates presented via text and audio output. |
+| 🗣️ **Voice Command Navigation** | Hands-free interface navigation through Web Speech API. |
+| 📅 **Voice-Enabled Calendar** | Reminders and academic events delivered through voice prompts. |
+| 🌐 **Multilingual Support** | Interface available in English, Arabic, and French for broader accessibility. |
+| 📥 **Offline Mode** | Downloadable audio and summary content for offline study. |
+| 🌙 **Dark & High-Contrast UI** | Customizable UI themes optimized for low-vision users. |
+| 🤖 **AI Personalization (Planned)** | Adaptive feedback and content suggestions based on user activity. |
+| 📲 **Mobile App (Planned)** | Mobile version to ensure on-the-go accessibility. |
+| 💬 **Feedback System (Planned)** | Collect user suggestions to improve accessibility features continuously. |
+
 
 ---
 
